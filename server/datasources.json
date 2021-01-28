@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "mysql": {
-    "host": "u3r5w4ayhxzdrw87.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "url": "",
-    "database": "nmdyo41x432iu43n",
-    "password": "vdeh7t2ye3ev62yg",
+    "database": "v8b0kutwdgijrcxz",
+    "password": "adoaafn3qzlcbh8p",
     "name": "mysql",
-    "user": "muddiht9bkcep9cz",
+    "user": "hfflphdhfdv1ul7s",
     "connector": "mysql"
   }
 }
