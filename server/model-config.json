@@ -35,7 +35,7 @@
     "dataSource": "mysql",
     "public": false
   },
-  "post": {
+  "Post": {
     "dataSource": "mysql",
     "public": true
   }
